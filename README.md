@@ -8,7 +8,8 @@
 </body>
  
 - Projeto integrador </br>
-https://ecomercegenbr.herokuapp.com/swagger-ui
+https://ecomerceappbr.herokuapp.com/
+
 
 ##
 
