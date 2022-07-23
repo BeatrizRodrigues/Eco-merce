@@ -59,7 +59,7 @@ Ao fazer a colaboração com a nossa causa os clientes acumulam pontos que podem
     
 DESENVOLVEDORES
     
-- IGOR DE ANDRADE TUDISCO
+
 <!--
 
 <body>
@@ -71,7 +71,7 @@ DESENVOLVEDORES
     <a href="https://www.linkedin.com/in/igor-tudisco-82935770/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" sizes="0.1" target="_blank"></a>
   </div>
 </body> -->
-
+- IGOR DE ANDRADE TUDISCO
 - DENISE APARECIDA MIGNOLI
 - MICHELE DIONES PEREIRA
 - BEATRIZ RODRIGUES
